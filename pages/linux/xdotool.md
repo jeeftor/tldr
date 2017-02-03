@@ -9,3 +9,4 @@
 - Click the right mouse button:
 
 `xdotool click 3`
+
