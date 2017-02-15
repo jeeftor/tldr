@@ -1,6 +1,7 @@
 # convert
 
-> Imagemagick image conversion tool.
+> Convert between image formats as well as apply graphical effects to images.
+> Part of ImageMagick Library.
 
 - Convert an image from JPG to PNG:
 
